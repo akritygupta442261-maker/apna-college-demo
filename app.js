@@ -81,6 +81,9 @@ switch(day){
 // console.error("this is an  error message");
 // console.warn("this is warning message");
 
-let firstName= prompt("give firstname");
-let LastName= prompt("give last name");
-console.log("welcome", firstName," ", LastName, "!");
+// let firstName= prompt("give firstname");
+// let LastName= prompt("give last name");
+// console.log("welcome", firstName," ", LastName, "!");
+
+
+letname=prompt("pleaseenteryourname");letage=prompt("pleaseenteryourage");alert(`${name}is${age}yearsold.`);
