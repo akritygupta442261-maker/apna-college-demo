@@ -26,17 +26,21 @@
 
     //ON MOUSE
     // btn.onclick= sayHello;
-let btns= document.querySelectorAll("button");
-for(btn of btns){
-    btn.onClick= sayHello;
-    btn.onmouseenter= function(){
-        console.log("you enterend a buttonn");
-    }
-    console.dir(btn);
+// let btns= document.querySelectorAll("button");
+// for(btn of btns){
+//     btn.onClick= sayHello;
+//     btn.onmouseenter= function(){
+//         console.log("you enterend a buttonn");
+//     }
+//     console.dir(btn);
    
      
     
-}
-    function sayHello(){
-        alert("hellow !")
-    }
+// }
+//     function sayHello(){
+//         alert("hellow !")
+//     }
+
+
+//ACTIVITY
+ 
